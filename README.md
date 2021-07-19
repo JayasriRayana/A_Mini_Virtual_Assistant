@@ -32,3 +32,9 @@ Use command like below:
         eg:who is ariana garande     
         what is a logic     
 6.Bye     
+
+
+
+
+
+![va1](https://user-images.githubusercontent.com/68680923/126099508-adb4abc8-10ff-4938-99e8-04d8dc9d4998.jpg)
