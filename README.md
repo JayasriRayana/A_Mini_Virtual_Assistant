@@ -33,7 +33,8 @@ Use command like below:
         what is a logic     
 6.Bye     
 
-![va1](https://user-images.githubusercontent.com/68680923/126099508-adb4abc8-10ff-4938-99e8-04d8dc9d4998.jpg)
+#Execution screenshots
+
 
 ![va2](https://user-images.githubusercontent.com/68680923/126099516-a4990671-f56a-4de3-b6dc-855249014111.jpg)
 
